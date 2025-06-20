@@ -16,7 +16,7 @@ A production-ready Express.js authentication starter kit with MongoDB, JWT, and 
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/Keviin725/express-starter-kit.git
 ```
 
 2. Install dependencies
